@@ -1,6 +1,5 @@
 # CHALL
-## VIHAAN DTU
-
+## VIHAAN DTU :computer:
 ### A Project on Fraud Risk Management
 
 The project aims to detect fraudulent transactions by looking at past records of the person making transaction.We use anomaly detection to find any possible fraudulent transaction.
